@@ -1,7 +1,7 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif)
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <h1 align="center">Hi 👋, I'm Ruby Narwal</h1>
 <h3 align="center">Aspiring Full-stack Web Developer at Masai School</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubynarwal&label=Profile%20views&color=0e75b6&style=flat" alt="rubynarwal" /> </p>
