@@ -8,7 +8,7 @@
 
 - 🤝 Group Project [Zara( public-bead-6343)](https://github.com/rishav015/public-bead-6343)
 
-- 💎 Check out my <a href="https://drive.google.com/drive/folders/1oBr9P7qkIVfXLet0fUzzdwTVLpXNdxcG" target="_blank" >Resume</a>
+- 💎 Check out my <a href="" target="_blank" >Resume</a>
 
 - ✨ Know more about me <a href="https://github.com/rubynarwal/rubynarwal.github.io" target="_blank"  >Portfolio</a>
  
