@@ -10,7 +10,7 @@
 
 - 💎 Check out my <a href="" target="_blank" >Resume</a>
 
-- ✨ Know more about me <a href="" target="_blank"  >Portfolio</a>
+- ✨ Know more about me <a href="https://rubynarwal.github.io/" target="_blank"  >Portfolio</a>
  
 - 🌱 I’m currently learning **java**
 
